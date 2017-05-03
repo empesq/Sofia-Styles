@@ -1,0 +1,3 @@
+[07-Jan-2017 09:33:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/bellefiore/public_html/sofiastyles/wp-content/themes/Purpl/index.php on line 1
+[07-Jan-2017 09:33:31 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/bellefiore/public_html/sofiastyles/wp-content/themes/Purpl/index.php on line 1
+[07-Jan-2017 09:33:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/bellefiore/public_html/sofiastyles/wp-content/themes/Purpl/index.php on line 1

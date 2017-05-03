@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<productid><![CDATA[95]]></productid>
+		<productname><![CDATA[Karlie Dress]]></productname>
+		<slug><![CDATA[karlie-dress]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/karlie-dress/]]></producturi>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></description>
+		<price><![CDATA[70]]></price>
+		<saleprice><![CDATA[]]></saleprice>
+		<category><![CDATA[Women>Dresses|Women]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/11/40194011_004_e-1.jpg]]></featuredimage>
+	</node>
+	<node>
+		<productid><![CDATA[91]]></productid>
+		<productname><![CDATA[Cammi Gold Dress]]></productname>
+		<slug><![CDATA[cammi-gold-dress]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/cammi-gold-dress/]]></producturi>
+		<description><![CDATA[]]></description>
+		<price><![CDATA[90]]></price>
+		<saleprice><![CDATA[]]></saleprice>
+		<category><![CDATA[Women>Dresses|Women]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/11/39441779_074_g.jpg]]></featuredimage>
+	</node>
+	<node>
+		<productid><![CDATA[87]]></productid>
+		<productname><![CDATA[Jenna Cardigan]]></productname>
+		<slug><![CDATA[jenna-cardigan]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/jenna-cardigan/]]></producturi>
+		<description><![CDATA[]]></description>
+		<price><![CDATA[84.99]]></price>
+		<saleprice><![CDATA[]]></saleprice>
+		<category><![CDATA[Women>Tops|Women]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/11/35476233_011_h-682x1024.jpg]]></featuredimage>
+	</node>
+	<node>
+		<productid><![CDATA[63]]></productid>
+		<productname><![CDATA[Gray Skirt]]></productname>
+		<slug><![CDATA[gray-skirt]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/gray-skirt/]]></producturi>
+		<description><![CDATA[]]></description>
+		<price><![CDATA[39.99]]></price>
+		<saleprice><![CDATA[]]></saleprice>
+		<category><![CDATA[Women>Bottoms|Women]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/10/5120467786888_001_d.jpg]]></featuredimage>
+	</node>
+	<node>
+		<productid><![CDATA[32]]></productid>
+		<productname><![CDATA[Bright Idea Dress]]></productname>
+		<slug><![CDATA[bright-idea-dress]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/bright-idea-dress/]]></producturi>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+		<price><![CDATA[70]]></price>
+		<saleprice><![CDATA[]]></saleprice>
+		<category><![CDATA[Women>Dresses]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/10/35729383_040_b-1-682x1024.jpg]]></featuredimage>
+	</node>
+	<node>
+		<productid><![CDATA[27]]></productid>
+		<productname><![CDATA[Men&#8217;s Sport Jacket]]></productname>
+		<slug><![CDATA[mens-sport-jacket]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/mens-sport-jacket/]]></producturi>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+		<price><![CDATA[80]]></price>
+		<saleprice><![CDATA[69]]></saleprice>
+		<category><![CDATA[Men>Tops]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/10/5216291620120_060_d.jpg]]></featuredimage>
+	</node>
+	<node>
+		<productid><![CDATA[20]]></productid>
+		<productname><![CDATA[Faux Wrap Huipil Dress]]></productname>
+		<slug><![CDATA[faux-wrap-huipil-backless-dress]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/faux-wrap-huipil-backless-dress/]]></producturi>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+		<price><![CDATA[98]]></price>
+		<saleprice><![CDATA[]]></saleprice>
+		<category><![CDATA[Just in]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/10/MaraHoffman.jpg]]></featuredimage>
+	</node>
+	<node>
+		<productid><![CDATA[18]]></productid>
+		<productname><![CDATA[Sofia Maxi Dress]]></productname>
+		<slug><![CDATA[sofia-maxi-dress]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/sofia-maxi-dress/]]></producturi>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+		<price><![CDATA[57.99]]></price>
+		<saleprice><![CDATA[]]></saleprice>
+		<category><![CDATA[Uncategorized]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/10/34469783_069_g.jpg]]></featuredimage>
+	</node>
+	<node>
+		<productid><![CDATA[12]]></productid>
+		<productname><![CDATA[Drake Polo]]></productname>
+		<slug><![CDATA[drake-polo]]></slug>
+		<producturi><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/product/drake-polo/]]></producturi>
+		<description><![CDATA[]]></description>
+		<price><![CDATA[89.99]]></price>
+		<saleprice><![CDATA[]]></saleprice>
+		<category><![CDATA[Uncategorized]]></category>
+		<featuredimage><![CDATA[http://bellefiore.x10.bz/sofia-fashion/wordpress/wp-content/uploads/2016/10/5212451570008_004_g.jpg]]></featuredimage>
+	</node>
+</data>
