@@ -3,15 +3,17 @@
 <head>
 	<meta charset="<?php bloginfo('charset'); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<meta name="description" content="Indulge in fashion collections that range from staples to statement pieces. Wardrobe essentials every man and woman needs.">
+	<meta name="description" content="Indulge in fashion collections that range from staples to statement pieces. Wardrobe essentials for every man and woman.">
 	<title><?php bloginfo('name'); ?> </title>
 	<?php wp_head(); ?>
 	<link href="http://sofiastyles.cyancreatives.com/" rel="canonical" />
 	<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
 	<script type="text/javascript" src="<?php echo get_template_directory_uri() . '/assets/instafeed.min.js'; ?>"></script>
 	<script type="text/javascript" src="<?php echo get_template_directory_uri() . '/assets/owl.carousel.js'; ?>"></script>
+	<script type="text/javascript" src="<?php echo get_template_directory_uri() . '/assets/bootstrap.min.js'; ?>"></script>
 	<link href="https://fonts.googleapis.com/css?family=Lora|Lato|Rock+Salt|Fira+Sans+Extra+Condensed|Archivo+Black" rel="stylesheet">
-	<link href="<?php echo get_template_directory_uri() . '/assets/bootstrap.min.css'; ?>" rel="stylesheet">
+	<link href="<?php echo get_template_directory_uri() . '/assets/bootstrap4.min.css'; ?>" rel="stylesheet">
 
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>

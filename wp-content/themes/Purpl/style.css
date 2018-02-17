@@ -821,7 +821,10 @@ small { font-size: 13px; }
     cursor: pointer;
 }
 .yith-ajaxsearchform-container label { display: none; }
-
+#menu-main-menu .menu-item a { 
+	font-family: 'Fira Sans Extra Condensed', serif;
+	font-size: 18px;
+}
 
 /*-------------------------------------/
 
@@ -1355,7 +1358,7 @@ section#offers {
 }
 
 .heading-featured{
-	font-family: 'Rock Salt', cursive;
+	font-family: 'Merienda', cursive;
 	font-size: 40px;
 	font-weight: normal;
 	margin-bottom: 40px;
@@ -1432,10 +1435,8 @@ section#offers {
 	margin-bottom: 30px;
 }
 
-
-#instafeed { text-align: center; }
 #instafeed a {
-    padding: 5px;
+    /*padding: 5px;*/
     display: inline-block;
 }
 #instafeed img { width: 100%; }
@@ -1491,6 +1492,11 @@ section#offers {
 #categories-gallery .row1 { background-color: #F0F8FF; }
 #categories-gallery .row2 { background-color: #FAEBD7; }
 #categories-gallery .text-container { padding: 15px; }
+#home-slider-carousel img { width: 100%; }
+#home-slider {
+	margin-top: 0;
+	padding-top: 0;
+}
 /*-------------------------------------/
 
 			MASTER SLIDER

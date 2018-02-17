@@ -7,3 +7,4 @@ allow from all
 <Files ms-files.php>
 allow from all
 </Files>
+php_value max_execution_time 600
