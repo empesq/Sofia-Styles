@@ -964,10 +964,7 @@ small { font-size: 13px; }
 .site-nav #menu-main .current-menu-item > a { 
     color: #daa520;
 }
-/*.account-nav {
-	display: inline-block;
-	float: right;
-}*/
+
 .account-nav li { 
 	display: inline-block
 	list-style: none;
@@ -1002,7 +999,7 @@ small { font-size: 13px; }
 
 }
 
-
+.site-nav.account-nav { display: none; }
 
 .site-nav ul, .footer-nav ul {
 	margin: 0;
@@ -1133,7 +1130,7 @@ small { font-size: 13px; }
 button#responsive-menu-button {
 	width: 45px;
 	height: 45px;
-	top: 8px !important;
+	/*top: 10px !important;*/
 }
 
 section#offers {
@@ -1435,10 +1432,11 @@ section#offers {
 	margin-bottom: 30px;
 }
 
-#instafeed a {
-    /*padding: 5px;*/
+/*#instafeed a {
+    padding: 5px;
     display: inline-block;
-}
+}*/
+#instafeed .col { padding: 0; }
 #instafeed img { width: 100%; }
 #instagram-shots h4 { font-size: 24px; }
 .text-link-primary { 
@@ -1496,6 +1494,12 @@ section#offers {
 #home-slider {
 	margin-top: 0;
 	padding-top: 0;
+}
+
+.cat-item { 
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto; 
 }
 /*-------------------------------------/
 
@@ -2430,6 +2434,7 @@ tr, th, td
 border:none!important;
 }
 .woocommerce table.cart .product-thumbnail { display: block !important;}
+
 /******************************** MEDIA QUERIES ************************************/
 
  /*==========  Mobile First Method  ==========*/
@@ -2460,7 +2465,7 @@ border:none!important;
 	.wcps-container .owl-stage-outer {
 		padding: 10px 0;
 	}
-	#instafeed a { width: 33.3%; }
+	/*#instafeed a { width: 33.3%; }*/
 	/*#product-categories .product {
 
 		width: 100%;
@@ -2878,6 +2883,7 @@ border:none!important;
 	/*------Header------*/
 
 	.site-nav { display: inline-block; }
+	.cat-item { margin-bottom: 0; }
 
 	/*------Navigation------*/
 
@@ -2930,7 +2936,7 @@ border:none!important;
 	.woocommerce form.login {  width: 60%; }
 	/*------Account Page------*/
 
-	#instafeed a { width: 16%; }
+	/*#instafeed a { width: 16%; }*/
 	.ms-slide-info { top: 28%; }
 }
 
@@ -2969,6 +2975,10 @@ border:none!important;
 	#categories-gallery .row1 {
 		margin-bottom: 30px;
 	}
+}
+
+@media (min-width: 856px ) {
+	.site-nav.account-nav { display: inline-block; }
 }
 
 /* Medium devices (desktops, 992px and up) md*/
@@ -3056,7 +3066,7 @@ border:none!important;
 	
 	/*------Footer------*/
 
-	#instafeed a { width: 12%; }	
+	/*#instafeed a { width: 10%; }	*/
 	#newsletter form { width: 50%; }
 
 	/*------Product Page------*/
